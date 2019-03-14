@@ -1,0 +1,11 @@
+>> Simple greeting
+>> Ask name, address and DOB
+>> Greet user
+>> Ask for any number from 1 - 25
+>> Then choose a number from 1 - 4
+>> If user chose 1: equate the number with itself using different operators
+>> If user chose 2: read the string stored in the chosen number
+>> If user chose 3: if the chosen number is prime, print the word "prime number". If not, and its not less than 1 print asterisk based on the chosen number and if its divisible by 3, print a triangle/pyramid
+>> If user chose 4: Use a loop that prints the chosen number multiple times forming a shape
+>> if user chose neither 1-4: Randomize number from 1-4 then execute it.
+>> Say goodbye
